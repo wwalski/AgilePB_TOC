@@ -3,11 +3,11 @@
 
 #### Main Body:  
 
-## 1. Overview
-## 2. [Agile Transformation](https://wwalski.github.io/agile-playbook/)
-## 3. Applying Agile Methods and Mindset within the Air Force
-## 4. Agile Architecture
-## 5. Agile Framework
+1. Overview
+2. [Agile Transformation](https://wwalski.github.io/agile-playbook/)
+3. Applying Agile Methods and Mindset within the Air Force
+4. Agile Architecture
+5. Agile Framework
   
 #### Appendix A: Key Event Plays  
 #### Appendix B: Key Personnel Plays  
