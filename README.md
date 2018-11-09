@@ -1,7 +1,7 @@
 ![Agile Image](AgileImage.jpg)
 [Return to Playbook Homepage](https://wwalski.github.io/Playbook-Homepage/)
 
-#### Main Body:  
+### Main Body:  
 
 1. Overview
 2. [Agile Transformation](https://wwalski.github.io/agile-playbook/)
@@ -9,8 +9,8 @@
 4. Agile Architecture
 5. Agile Framework
   
-#### Appendix A: Key Event Plays  
-#### Appendix B: Key Personnel Plays  
-#### Appendix C: Key Links  
-#### Appendix D: Agile Terminology  
-#### Appendix E: Glossary  
+### Appendix A: Key Event Plays  
+### Appendix B: Key Personnel Plays  
+### Appendix C: Key Links  
+### Appendix D: Agile Terminology  
+### Appendix E: Glossary  
