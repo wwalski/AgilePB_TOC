@@ -1,5 +1,5 @@
 ![Agile Image](AgileImage.jpg)
-[Return to Playbook Homepage]()
+[Return to Playbook Homepage](https://wwalski.github.io/Playbook-Homepage/)
 # Table of Contents
 #### Main Body:  
 
