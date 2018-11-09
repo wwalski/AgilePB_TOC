@@ -1,5 +1,5 @@
 # Table of Contents
-Main Body:  
+## Main Body:  
 
 1. Overview
 2. Agile Transformation
@@ -7,8 +7,8 @@ Main Body:
 4. Agile Architecture
 5. Agile Framework
   
-Appendix A: Key Event Plays  
-Appendix B: Key Personnel Plays  
-Appendix C: Key Links  
-Appendix D: Agile Terminology  
-Appendix E: Glossary  
+## Appendix A: Key Event Plays  
+## Appendix B: Key Personnel Plays  
+## Appendix C: Key Links  
+## Appendix D: Agile Terminology  
+## Appendix E: Glossary  
