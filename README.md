@@ -1,3 +1,5 @@
+![Agile Image](Agile Image.jpg)
+
 # Table of Contents
 #### Main Body:  
 
