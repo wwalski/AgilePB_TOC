@@ -1,4 +1,4 @@
-![Agile Image](Agile Image.jpg)
+![Agile Image](AgileImage.jpg)
 
 # Table of Contents
 #### Main Body:  
